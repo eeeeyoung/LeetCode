@@ -1,0 +1,40 @@
+   0x000000000040120a <+0>:	sub    $0x8,%rsp
+   0x000000000040120e <+4>:	test   %rdi,%rdi                    // test if $rdi == 0, should never be 0
+   0x0000000000401211 <+7>:	je     0x40124b <fun7+65>       // Reminder: $rdi stores the address of a binary search tree
+   0x0000000000401213 <+9>:	mov    (%rdx),%rax                  // $rax = ($rdx) == 0
+   0x0000000000401216 <+12>:	shl    $0x8,%rax                    // shl ($rdx) << 0x8  == 0
+   0x000000000040121a <+16>:	add    (%rdi),%rax                  // initial is 81         || add address of input $rdi to $rax 
+   0x000000000040121d <+19>:	mov    %rax,(%rdx)                                           || update the address stored in $rdx to be ($rdx) << 8
+   0x0000000000401220 <+22>:	mov    (%rdi),%rax                                           || address ($rdi) to $rax
+   0x0000000000401223 <+25>:	cmp    %rsi,%rax                                             ||
+   0x0000000000401226 <+28>:	jle    0x401236 <fun7+44>          <-- must take this jump
+   0x0000000000401228 <+30>:	mov    0x8(%rdi),%rdi
+   0x000000000040122c <+34>:	callq  0x40120a <fun7>
+   0x0000000000401231 <+39>:	add    %rax,%rax
+   0x0000000000401234 <+42>:	jmp    0x401259 <fun7+79>
+   0x0000000000401236 <+44>:	cmp    %rsi,%rax                        // must satisfy %rax == %rsi
+   0x0000000000401239 <+47>:	je     0x401254 <fun7+74>          <--  must take this jump!
+   0x000000000040123b <+49>:	mov    0x10(%rdi),%rdi
+   0x000000000040123f <+53>:	callq  0x40120a <fun7>
+   0x0000000000401244 <+58>:	lea    0x1(%rax,%rax,1),%rax
+   0x0000000000401249 <+63>:	jmp    0x401259 <fun7+79>
+   0x000000000040124b <+65>:	mov    $0xffffffffffffffff,%rax
+   0x0000000000401252 <+72>:	jmp    0x401259 <fun7+79>
+   0x0000000000401254 <+74>:	mov    $0x0,%eax
+   0x0000000000401259 <+79>:	add    $0x8,%rsp
+   0x000000000040125d <+83>:	retq
+                           
+                              0x604120
+                                 81
+                     /                      \
+                  0x604140                0x604160
+                     53                      95
+                 /       \              /          \
+            0x6041C0  0x604180      0x6041A0     0x6041E0
+                51       67           90           152
+            /  |         |   \      /  |            |   \
+     604220 604280 6042A0 604260 604200 6042C0  604240 6042E0
+       46      52    65    80     85     92       144   168
+              
+               
+
