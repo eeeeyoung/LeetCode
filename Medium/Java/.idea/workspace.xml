@@ -2,23 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71372b2b-b911-429f-8e46-c9befb808d55" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DPArithmeticSlices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DPLongestPalindromeSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DPMaximumLengthofRepeatedSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DPMinimumCostForTickets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DPPalindromicSubstrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DPPerfectSquares.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DPShortestWayToFormString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DPTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DPUniqueBinarySearchTrees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DPWildCardMatching.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DPWordBreak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LCUtility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MaximumProductSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MinimumASCIIDeleteSumforTwoStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C/.vscode/ipch/662e95c1651c2ff0/DPCountingBits.ipch" beforeDir="false" afterPath="$PROJECT_DIR$/../C/.vscode/ipch/662e95c1651c2ff0/DPCountingBits.ipch" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -29,21 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Sorting.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="89" column="37" lean-forward="true" selection-start-line="89" selection-start-column="37" selection-end-line="89" selection-end-column="37" />
-              <folding>
-                <element signature="e#2942#2943#0" expanded="true" />
-                <element signature="e#2969#2970#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -93,7 +62,7 @@
     <option name="x" value="935" />
     <option name="y" value="25" />
     <option name="width" value="985" />
-    <option name="height" value="1055" />
+    <option name="height" value="1053" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -101,7 +70,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -109,21 +77,17 @@
               <item name="Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560814448464" />
-    <property name="last_opened_file_path" value="$USER_HOME$/CloudComputing/TeamProj/yang/CC150CrackingTheCodingInterview-S19/phase1/Query2/qhRh" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560814450064" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../HighFreq" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -177,10 +141,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="935" y="25" width="985" height="1055" extended-state="4" />
-    <editor active="true" />
+    <frame x="935" y="25" width="985" height="1053" extended-state="4" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16613418" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2683706" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -194,7 +157,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32937366" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32900432" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3297414" />
@@ -450,11 +413,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Sorting.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="89" column="37" lean-forward="true" selection-start-line="89" selection-start-column="37" selection-end-line="89" selection-end-column="37" />
+        <state relative-caret-position="2023">
+          <caret line="119" lean-forward="true" selection-start-line="119" selection-end-line="119" />
           <folding>
             <element signature="e#2942#2943#0" expanded="true" />
-            <element signature="e#2969#2970#0" expanded="true" />
+            <element signature="e#2995#2996#0" expanded="true" />
           </folding>
         </state>
       </provider>

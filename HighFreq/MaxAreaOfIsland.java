@@ -6,29 +6,35 @@ public class MaxAreaOfIsland {
     private int m;
 
     public int maxAreaOfIsland(int[][] grid) {
-        int count = 0;
+        int maxArea = 0;
+        int area;
         n = grid.length;
         if (n == 0) return 0;
         m = grid[0].length;
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
-                if (grid[i][j] == '1') {
-                    count++;
-                    DFS(i, j, grid);
+                if (grid[i][j] == 1) {
+                    area = 0;
+                    area = DFS(area, i, j, grid);
+                    if (area > maxArea) {
+                        maxArea = area;
+                    }
                 }
             }
         }
-        return count;
+        return maxArea;
     }
 
-    private void DFS(int i, int j, int[][] grid) {
+    private int DFS(int area, int i, int j, int[][] grid) {
         if (i < 0 || j < 0 || i >= n || j >= m || grid[i][j] == 0) {
-            return;
+            return area; // incompatible, return original area
         }
         grid[i][j] = 0;
-        DFS(i - 1, j, grid);
-        DFS(i + 1, j, grid);
-        DFS(i, j - 1, grid);
-        DFS(i, j + 1, grid);
+        area++;
+        area = DFS(area, i - 1, j, grid);
+        area = DFS(area, i + 1, j, grid);
+        area = DFS(area, i, j - 1, grid);
+        area = DFS(area, i, j + 1, grid);
+        return area;
     }
 }
