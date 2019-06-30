@@ -2,20 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74d8ff39-f5e4-47c5-9fe6-f2f5d028b12c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PopulatingNextRightPointersInEachNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RotateImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Hard/LargestBSTSubtree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Hard/RecoverATreeFromPreorder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Hard/RecoverATreeFromPreorderRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Hard/RecoverBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Hard/ValidateBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Hard/ValidateBSTIterative.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Medium/Java/src/ConvertSortedListToBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Medium/Java/src/SortColors.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../BackTracking/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../BackTracking/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PopulatingNextRightPointersInEachNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/PopulatingNextRightPointersInEachNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Easy/C/Python/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Easy/C/Python/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hard/LargestBSTSubtree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hard/LargestBSTSubtree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hard/RecoverATreeFromPreorder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hard/RecoverATreeFromPreorder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hard/RecoverATreeFromPreorderRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hard/RecoverATreeFromPreorderRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hard/RecoverBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hard/RecoverBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hard/ValidateBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hard/ValidateBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hard/ValidateBSTIterative.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hard/ValidateBSTIterative.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Medium/Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Medium/Java/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Medium/Java/src/ConvertSortedListToBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Medium/Java/src/ConvertSortedListToBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Medium/Java/src/SortColors.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Medium/Java/src/SortColors.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PopulatingNextRightPointersInEachNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+            <state relative-caret-position="102">
+              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -55,9 +54,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="764" />
+    <option name="x" value="704" />
     <option name="y" value="27" />
-    <option name="width" value="1146" />
+    <option name="width" value="1216" />
     <option name="height" value="1053" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -82,7 +81,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561855585048" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561855971855" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -115,7 +114,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="764" y="27" width="1146" height="1053" extended-state="4" />
+    <frame x="704" y="27" width="1216" height="1053" extended-state="4" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -123,10 +122,10 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12727273" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11196581" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32900432" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -155,8 +154,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PopulatingNextRightPointersInEachNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+        <state relative-caret-position="102">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
         </state>
       </provider>
     </entry>

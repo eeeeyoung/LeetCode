@@ -2,6 +2,15 @@
  * https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/.
  */
 public class PopulatingNextRightPointersInEachNode {
+    /**
+     * At each level, keeps track of :
+     * root : the root of subtrees at the previous level, uses root.next to traverse
+     * children : use currentChildren.next to traverse
+     *
+     * At termination of each level, use tempChild stored previously to restore
+     * @param root reference to the input root
+     * @return reference to the input root
+     */
     public Node connect(Node root) {
         if (root == null) return null;
         Node realRoot = root;
@@ -10,7 +19,7 @@ public class PopulatingNextRightPointersInEachNode {
         Node tempChild = new Node(0, null, null, null);
         while (root != null) {
             Node currentChild = tempChild; // conserve the tempChild and use reference
-            while (root != null) {
+            while (root != null) {  // root = root.next, the other root node across the other tree
                 if (root.left != null) {
                     currentChild.next = root.left;
                     currentChild = currentChild.next;  // root.left is currentChild now
