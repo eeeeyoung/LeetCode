@@ -18,7 +18,7 @@ public class PopulatingNextRightPointersInEachNode {
         /* Using tempChild as a dummy node */
         Node tempChild = new Node(0, null, null, null);
         while (root != null) {
-            Node currentChild = tempChild; // conserve the tempChild and use reference
+            Node currentChild = tempChild;
             while (root != null) {  // root = root.next, the other root node across the other tree
                 if (root.left != null) {
                     currentChild.next = root.left;
@@ -30,6 +30,9 @@ public class PopulatingNextRightPointersInEachNode {
                 }
                 root = root.next;  // going across, to another subtree
             }
+            // In the inner while loop above, first call to currentChild.next, currentChild still
+            // stores the reference to tempChild. Before changing the reference for the first time,
+            // currentChild = tempChild.next is set to the first available child node
             root = tempChild.next;
             tempChild.next = null;
         }
