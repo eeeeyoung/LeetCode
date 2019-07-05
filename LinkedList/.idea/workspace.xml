@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="14c92423-55c9-4e2d-aa7d-26976d744db0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ByCompany/Amazon/BestTimeToBuyAndSellStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ByCompany/Amazon/BinaryTreePostOrderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ByCompany/Amazon/CountCompleteTreeNodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ByCompany/Amazon/GroupAnagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ByCompany/Google/.idea/Google.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ByCompany/Google/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ByCompany/Google/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ByCompany/Google/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ByCompany/Google/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ByCompany/Google/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ByCompany/Google/MostStonesRemovedwithSameRowOrColumn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ByCompany/Google/OddEvenJump.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ByCompany/Google/RedundantConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ByCompany/Google/RobotRoomCleaner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ByCompany/Google/SplitArrayLargestSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ByCompany/Google/UniqueEmailAddresses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Graph/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Graph/CloneGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hard/BestMeetingPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HighFreq/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HighFreq/MedianFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HighFreq/NextPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HighFreq/PalindromePairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HighFreq/SpiralMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HighFreq/SubarraySumEqualsK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntersectionOfTwoArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedListCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PalindromeLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RemoveDuplicatesFromSortedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RemoveDuplicatesII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RemoveNthElementFromEndofList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReverseLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReverseLinkedListII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RotateList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SwapNodesInPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Medium/Java/src/MergeSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Medium/Java/src/SortList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Medium/Java/src/WordLadder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Medium/Java/src/WordLadderDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackTracking/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BackTracking/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ByCompany/Amazon/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ByCompany/Amazon/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Easy/C/Python/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Easy/C/Python/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hard/LargestBSTSubtree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hard/LargestBSTSubtree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hard/RecoverATreeFromPreorder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hard/RecoverATreeFromPreorder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hard/RecoverATreeFromPreorderRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hard/RecoverATreeFromPreorderRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hard/RecoverBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hard/RecoverBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hard/ValidateBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hard/ValidateBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hard/ValidateBSTIterative.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hard/ValidateBSTIterative.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HighFreq/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HighFreq/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Medium/Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Medium/Java/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Medium/Java/out/production/Java/MinCostClimbingStairs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Medium/Java/src/ConvertSortedListToBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Medium/Java/src/ConvertSortedListToBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Medium/Java/src/SortColors.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Medium/Java/src/SortColors.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/RemoveNthElementFromEndofList.java" />
+        <option value="$PROJECT_DIR$/RemoveDuplicatesFromSortedList.java" />
+        <option value="$PROJECT_DIR$/SwapNodesInPairs.java" />
+        <option value="$PROJECT_DIR$/RotateList.java" />
+        <option value="$PROJECT_DIR$/RemoveDuplicatesII.java" />
+        <option value="$PROJECT_DIR$/ReverseLinkedListII.java" />
+        <option value="$PROJECT_DIR$/ReverseLinkedList.java" />
+        <option value="$PROJECT_DIR$/LinkedListCycle.java" />
+        <option value="$PROJECT_DIR$/IntersectionOfTwoArrays.java" />
+        <option value="$PROJECT_DIR$/PalindromeLinkedList.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="836" />
+    <option name="y" value="27" />
+    <option name="width" value="1074" />
+    <option name="height" value="1053" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LinkedList" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LinkedList" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562314519917" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Medium/Java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14c92423-55c9-4e2d-aa7d-26976d744db0" name="Default Changelist" comment="" />
+      <created>1562296877228</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562296877228</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="836" y="27" width="1074" height="1053" extended-state="4" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1614786" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SwapNodesInPairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RemoveDuplicatesII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" selection-start-line="36" selection-end-line="40" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RemoveNthElementFromEndofList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RotateList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReverseLinkedListII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="668">
+          <caret line="44" selection-start-line="44" selection-end-line="48" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReverseLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RemoveDuplicatesFromSortedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PalindromeLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedListCycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IntersectionOfTwoArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.11.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8.0_201</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>LinkedList</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

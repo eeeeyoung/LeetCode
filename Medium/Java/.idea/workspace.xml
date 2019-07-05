@@ -2,7 +2,61 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71372b2b-b911-429f-8e46-c9befb808d55" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../ByCompany/Amazon/BestTimeToBuyAndSellStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ByCompany/Amazon/BinaryTreePostOrderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ByCompany/Amazon/CountCompleteTreeNodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ByCompany/Amazon/GroupAnagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ByCompany/Google/.idea/Google.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ByCompany/Google/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ByCompany/Google/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ByCompany/Google/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ByCompany/Google/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ByCompany/Google/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ByCompany/Google/MostStonesRemovedwithSameRowOrColumn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ByCompany/Google/OddEvenJump.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ByCompany/Google/RedundantConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ByCompany/Google/RobotRoomCleaner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ByCompany/Google/SplitArrayLargestSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ByCompany/Google/UniqueEmailAddresses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graph/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graph/CloneGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hard/BestMeetingPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HighFreq/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HighFreq/MedianFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HighFreq/NextPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HighFreq/PalindromePairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HighFreq/SpiralMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HighFreq/SubarraySumEqualsK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LinkedList/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LinkedList/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LinkedList/IntersectionOfTwoArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LinkedList/LinkedListCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LinkedList/PalindromeLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LinkedList/RemoveDuplicatesFromSortedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LinkedList/RemoveDuplicatesII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LinkedList/RemoveNthElementFromEndofList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LinkedList/ReverseLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LinkedList/ReverseLinkedListII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LinkedList/RotateList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LinkedList/SwapNodesInPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MergeSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WordLadder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WordLadderDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BackTracking/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../BackTracking/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ByCompany/Amazon/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ByCompany/Amazon/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Easy/C/Python/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Easy/C/Python/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hard/LargestBSTSubtree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hard/LargestBSTSubtree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hard/RecoverATreeFromPreorder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hard/RecoverATreeFromPreorder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hard/RecoverATreeFromPreorderRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hard/RecoverATreeFromPreorderRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hard/RecoverBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hard/RecoverBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hard/ValidateBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hard/ValidateBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hard/ValidateBSTIterative.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hard/ValidateBSTIterative.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HighFreq/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../HighFreq/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/MinCostClimbingStairs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConvertSortedListToBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConvertSortedListToBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SortColors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SortColors.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,7 +66,50 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ConvertSortedListToBST.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="952">
+              <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/WordLadder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SortList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/WordLadderDriver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -55,13 +152,19 @@
         <option value="$PROJECT_DIR$/src/DPWordBreak.java" />
         <option value="$PROJECT_DIR$/src/DPWildCardMatching.java" />
         <option value="$PROJECT_DIR$/src/Sorting.java" />
+        <option value="$PROJECT_DIR$/src/SortColors.java" />
+        <option value="$PROJECT_DIR$/src/ConvertSortedListToBST.java" />
+        <option value="$PROJECT_DIR$/src/MergeSortedArray.java" />
+        <option value="$PROJECT_DIR$/src/WordLadderDriver.java" />
+        <option value="$PROJECT_DIR$/src/WordLadder.java" />
+        <option value="$PROJECT_DIR$/src/SortList.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="935" />
-    <option name="y" value="25" />
-    <option name="width" value="985" />
+    <option name="x" value="718" />
+    <option name="y" value="27" />
+    <option name="width" value="1190" />
     <option name="height" value="1053" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -77,6 +180,11 @@
               <item name="Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -86,8 +194,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560814450064" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../HighFreq" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562314403146" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -141,9 +249,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="935" y="25" width="985" height="1053" extended-state="4" />
+    <frame x="718" y="27" width="1190" height="1053" extended-state="4" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2683706" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2263986" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -152,13 +261,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.27693966" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27597404" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32900432" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49913344" visible="true" weight="0.27056277" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50086653" side_tool="true" weight="0.27056277" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3297414" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -419,6 +528,54 @@
             <element signature="e#2942#2943#0" expanded="true" />
             <element signature="e#2995#2996#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SortColors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="57" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MergeSortedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="36" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ConvertSortedListToBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WordLadderDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WordLadder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SortList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
         </state>
       </provider>
     </entry>
