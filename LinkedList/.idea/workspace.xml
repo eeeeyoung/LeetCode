@@ -1,63 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14c92423-55c9-4e2d-aa7d-26976d744db0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ByCompany/Amazon/BestTimeToBuyAndSellStock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ByCompany/Amazon/BinaryTreePostOrderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ByCompany/Amazon/CountCompleteTreeNodes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ByCompany/Amazon/GroupAnagrams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ByCompany/Google/.idea/Google.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ByCompany/Google/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ByCompany/Google/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ByCompany/Google/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ByCompany/Google/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ByCompany/Google/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ByCompany/Google/MostStonesRemovedwithSameRowOrColumn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ByCompany/Google/OddEvenJump.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ByCompany/Google/RedundantConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ByCompany/Google/RobotRoomCleaner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ByCompany/Google/SplitArrayLargestSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ByCompany/Google/UniqueEmailAddresses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Graph/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Graph/CloneGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hard/BestMeetingPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HighFreq/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HighFreq/MedianFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HighFreq/NextPermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HighFreq/PalindromePairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HighFreq/SpiralMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HighFreq/SubarraySumEqualsK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntersectionOfTwoArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedListCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PalindromeLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RemoveDuplicatesFromSortedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RemoveDuplicatesII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RemoveNthElementFromEndofList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReverseLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReverseLinkedListII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RotateList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SwapNodesInPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Medium/Java/src/MergeSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Medium/Java/src/SortList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Medium/Java/src/WordLadder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Medium/Java/src/WordLadderDriver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BackTracking/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BackTracking/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ByCompany/Amazon/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ByCompany/Amazon/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Easy/C/Python/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Easy/C/Python/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hard/LargestBSTSubtree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hard/LargestBSTSubtree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hard/RecoverATreeFromPreorder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hard/RecoverATreeFromPreorder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hard/RecoverATreeFromPreorderRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hard/RecoverATreeFromPreorderRecursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hard/RecoverBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hard/RecoverBST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hard/ValidateBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hard/ValidateBST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hard/ValidateBSTIterative.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hard/ValidateBSTIterative.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HighFreq/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HighFreq/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Medium/Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Medium/Java/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Medium/Java/out/production/Java/MinCostClimbingStairs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Medium/Java/src/ConvertSortedListToBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Medium/Java/src/ConvertSortedListToBST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Medium/Java/src/SortColors.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Medium/Java/src/SortColors.java" afterDir="false" />
-    </list>
+    <list default="true" id="14c92423-55c9-4e2d-aa7d-26976d744db0" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,8 +49,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -122,7 +66,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562314519917" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Medium/Java" />
+    <property name="last_opened_file_path" value="$USER_HOME$/JavaDS/RememberTerryLee" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -156,16 +100,13 @@
   <component name="ToolWindowManager">
     <frame x="836" y="27" width="1074" height="1053" extended-state="4" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1614786" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16439688" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -173,14 +114,17 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
   <component name="editorHistoryManager">

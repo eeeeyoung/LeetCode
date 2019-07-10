@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da0c17c5-6523-46d1-9e3c-2fc2ecc37886" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../Hard/RecoverBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Medium/Java/src/ConvertSortedListToBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Medium/Java/src/SortColors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../BackTracking/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../BackTracking/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Medium/Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Medium/Java/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JewelsAndStones.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LinkedList/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,15 +14,8 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/15513_IntroductionToComputerSystems/examSolutions/pdfScrapper.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/JewelsAndStones.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -45,14 +35,7 @@
       <list>
         <option value="$PROJECT_DIR$/reverseInteger.py" />
         <option value="$USER_HOME$/15513_IntroductionToComputerSystems/examSolutions/pdfScrapper.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/JewelsAndStones.py" />
       </list>
     </option>
   </component>
@@ -99,7 +82,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.pdfScrapper">
+  <component name="RunManager" selected="Python.JewelsAndStones">
+    <configuration name="JewelsAndStones" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JewelsAndStones.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="pdfScrapper" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -144,6 +148,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.JewelsAndStones" />
         <item itemvalue="Python.pdfScrapper" />
         <item itemvalue="Python.reverseInteger" />
       </list>
@@ -171,7 +176,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32937366" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39956802" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -194,13 +199,16 @@
     </entry>
     <entry file="file://$USER_HOME$/15513_IntroductionToComputerSystems/examSolutions/pdfScrapper.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JewelsAndStones.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
