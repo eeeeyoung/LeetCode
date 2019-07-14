@@ -2,25 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="459bb606-c0d3-4eb1-9854-68d08bfd5173" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Easy/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Easy/Java/MajorityElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Easy/Python/JewelsAndStones.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CourseScheduleII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphValidTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Heap/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Heap/EmployeeFreeTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Heap/KthSmallestElementinaSortedMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Heap/SortCharacterByFrequency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Medium/Java/src/BinaryTreeInorderTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Easy/C/Python/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Easy/Python/.idea/Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Easy/C/Python/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Easy/Python/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Easy/C/Python/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Easy/Python/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Easy/C/Python/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Easy/Python/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Easy/C/Python/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Easy/Python/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Easy/C/Python/reverseInteger.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Easy/Python/reverseInteger.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CloneGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/CloneGraph.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Heap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Heap/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Medium/Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Medium/Java/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -55,7 +38,7 @@
     <option name="x" value="721" />
     <option name="y" value="25" />
     <option name="width" value="1199" />
-    <option name="height" value="1055" />
+    <option name="height" value="1053" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -63,6 +46,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -75,11 +59,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562655998023" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562666857260" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Heap" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -112,10 +95,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="721" y="25" width="1199" height="1055" extended-state="4" />
-    <editor active="true" />
+    <frame x="721" y="25" width="1199" height="1053" extended-state="4" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15264527" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15524718" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />

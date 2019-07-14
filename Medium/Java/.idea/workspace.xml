@@ -2,25 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71372b2b-b911-429f-8e46-c9befb808d55" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Easy/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Easy/Java/MajorityElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Easy/Python/JewelsAndStones.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Graph/CourseScheduleII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Graph/GraphValidTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Heap/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Heap/EmployeeFreeTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Heap/KthSmallestElementinaSortedMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Heap/SortCharacterByFrequency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinaryTreeInorderTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Easy/C/Python/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Easy/Python/.idea/Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Easy/C/Python/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Easy/Python/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Easy/C/Python/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Easy/Python/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Easy/C/Python/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Easy/Python/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Easy/C/Python/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Easy/Python/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Easy/C/Python/reverseInteger.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Easy/Python/reverseInteger.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Graph/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Graph/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Graph/CloneGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Graph/CloneGraph.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Heap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Heap/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -94,11 +77,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="718" />
-    <option name="y" value="27" />
-    <option name="width" value="1180" />
-    <option name="height" value="1053" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="25" />
+    <option name="width" value="927" />
+    <option name="height" value="1055" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -127,7 +110,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562655998066" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562666857293" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -182,10 +165,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="718" y="27" width="1180" height="1053" extended-state="4" />
-    <editor active="true" />
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23015873" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14609851" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -199,7 +181,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49913344" visible="true" weight="0.27056277" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49913344" visible="true" weight="0.2699784" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50086653" side_tool="true" weight="0.27056277" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3297414" />
