@@ -1,41 +1,40 @@
-import java.util.HashMap;
-import java.util.Map;
-import java.util.PriorityQueue;
-import java.util.Queue;
+import java.util.*;
 
 /**
  * https://leetcode.com/problems/network-delay-time/.
  */
 public class NetworkDelayTime {
+
     public int networkDelayTime(int[][] times, int N, int K) {
-        Map<Integer, Map<Integer,Integer>> map = new HashMap<>();
-        for(int[] time : times){
-            map.putIfAbsent(time[0], new HashMap<>());
-            map.get(time[0]).put(time[1], time[2]);
+        Map<Integer, List<int[]>> graph = new HashMap<>();
+        for (int[] edge: times) {
+            if (!graph.containsKey(edge[0]))
+                graph.put(edge[0], new ArrayList<int[]>());
+            graph.get(edge[0]).add(new int[]{edge[1], edge[2]});
         }
+        PriorityQueue<int[]> heap = new PriorityQueue<int[]>(
+                (info1, info2) -> info1[0] - info2[0]);
+        heap.offer(new int[]{0, K});
 
-        //distance, node into pq
-        Queue<int[]> pq = new PriorityQueue<>((a, b) -> (a[0] - b[0]));
+        Map<Integer, Integer> dist = new HashMap<>();
 
-        pq.add(new int[]{0, K});
-
-        boolean[] visited = new boolean[N+1];
-        int res = 0;
-
-        while(!pq.isEmpty()){
-            int[] cur = pq.remove();
-            int curNode = cur[1];
-            int curDist = cur[0];
-            if(visited[curNode]) continue;
-            visited[curNode] = true;
-            res = curDist;
-            N--;
-            if(map.containsKey(curNode)){
-                for(int next : map.get(curNode).keySet()){
-                    pq.add(new int[]{curDist + map.get(curNode).get(next), next});
+        while (!heap.isEmpty()) {
+            int[] info = heap.poll();
+            int d = info[0], node = info[1];
+            if (dist.containsKey(node)) continue;
+            dist.put(node, d);
+            if (graph.containsKey(node))
+                for (int[] edge: graph.get(node)) {
+                    int nei = edge[0], d2 = edge[1];
+                    if (!dist.containsKey(nei))
+                        heap.offer(new int[]{d + d2, nei});
                 }
-            }
         }
-        return N == 0 ? res : -1;
+
+        if (dist.size() != N) return -1;
+        int ans = 0;
+        for (int cand: dist.values())
+            ans = Math.max(ans, cand);
+        return ans;
     }
 }
