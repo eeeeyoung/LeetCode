@@ -2,9 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71372b2b-b911-429f-8e46-c9befb808d55" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Graph/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Graph/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Heap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Heap/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hard/CoupleHoldingHands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hard/SlidingWindowMaximum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hard/SwimInRisingWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hard/TheSkylineProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hard/UniqueBSTII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CFWKS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheapestFlightsWithinKStops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ContainsNearbyAlmostDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IsGraphBipartite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedListCycleII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SearchA2DMatrixII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myAtoi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hard/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hard/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CountOfRangeSum.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,8 +31,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/SortList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="1037">
+              <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
             </state>
           </provider>
         </entry>
@@ -77,10 +90,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="67" />
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="790" />
     <option name="y" value="25" />
-    <option name="width" value="927" />
+    <option name="width" value="1130" />
     <option name="height" value="1055" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -89,7 +102,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -107,6 +119,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -165,9 +178,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <frame x="790" y="25" width="1130" height="1055" extended-state="4" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14609851" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24630997" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -499,8 +513,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SortList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="1037">
+          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
         </state>
       </provider>
     </entry>
