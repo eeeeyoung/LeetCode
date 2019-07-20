@@ -2,22 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71372b2b-b911-429f-8e46-c9befb808d55" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Hard/CoupleHoldingHands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Hard/SlidingWindowMaximum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Hard/SwimInRisingWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Hard/TheSkylineProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Hard/UniqueBSTII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CFWKS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CheapestFlightsWithinKStops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ContainsNearbyAlmostDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IsGraphBipartite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedListCycleII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SearchA2DMatrixII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myAtoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hard/InsertInterval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hard/RaceCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hard/SumOfDistancesInTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FirstUniqueCharacterInAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PopulatingNextRightPtrsInEachNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReorganizeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TopKFrequentWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/findKthLargest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Hard/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hard/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hard/SlidingWindowMaximum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hard/SlidingWindowMaximum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CountOfRangeSum.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,11 +24,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/SortList.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/NumArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1037">
-              <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+            <state relative-caret-position="187">
+              <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+              <folding>
+                <element signature="e#669#670#0" expanded="true" />
+                <element signature="e#698#699#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/FirstUniqueCharacterInAString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -87,14 +96,21 @@
         <option value="$PROJECT_DIR$/src/WordLadder.java" />
         <option value="$PROJECT_DIR$/src/SortList.java" />
         <option value="$PROJECT_DIR$/src/BinaryTreeInorderTraversal.java" />
+        <option value="$PROJECT_DIR$/src/findKthLargest.java" />
+        <option value="$PROJECT_DIR$/src/PopulatingNextRightPtrsInEachNode.java" />
+        <option value="$PROJECT_DIR$/src/ReorganizeString.java" />
+        <option value="$PROJECT_DIR$/src/TopKFrequentWords.java" />
+        <option value="$PROJECT_DIR$/src/RangeSumQueryMutable.java" />
+        <option value="$PROJECT_DIR$/src/NumArray.java" />
+        <option value="$PROJECT_DIR$/src/FirstUniqueCharacterInAString.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="790" />
-    <option name="y" value="25" />
-    <option name="width" value="1130" />
-    <option name="height" value="1055" />
+    <option name="x" value="772" />
+    <option name="y" value="27" />
+    <option name="width" value="1148" />
+    <option name="height" value="1053" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -102,6 +118,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -118,12 +135,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562666857293" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563636564910" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -178,10 +194,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="790" y="25" width="1130" height="1055" extended-state="4" />
+    <frame x="772" y="27" width="1148" height="1053" extended-state="4" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24630997" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.027223231" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -195,7 +211,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49913344" visible="true" weight="0.2699784" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49913344" weight="0.032467533" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50086653" side_tool="true" weight="0.27056277" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3297414" />
@@ -513,8 +529,54 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SortList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1037">
-          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+        <state relative-caret-position="590">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/findKthLargest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PopulatingNextRightPtrsInEachNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="32" selection-start-line="32" selection-end-line="43" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReorganizeString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="13" lean-forward="true" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TopKFrequentWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NumArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+          <folding>
+            <element signature="e#669#670#0" expanded="true" />
+            <element signature="e#698#699#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FirstUniqueCharacterInAString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
         </state>
       </provider>
     </entry>
