@@ -40,6 +40,10 @@ public class WordSearchII {
 
     private boolean searchWord(String word, int index, char[] flatBoard,
                                HashSet<Integer> visited) {
-        
+        if (index == 0) {
+            
+        } else {
+
+        }
     }
 }

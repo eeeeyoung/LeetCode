@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dccbd138-2ab3-4e51-9896-70105faa9305" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Medium/Java/src/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Medium/Java/src/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Medium/Java/src/AddTwoNumbersII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Medium/Java/src/BinaryTreeZigZagTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Medium/Java/src/IntegerToRoman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Medium/Java/src/LowestCommonAncestorOfABinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Medium/Java/src/MajorityElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Medium/Java/src/MultiplyStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Medium/Java/src/OddEvenLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Medium/Java/src/RemoveKDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Medium/Java/src/ReverseWordsInAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Medium/Java/src/ThreeSumClosest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Medium/Java/src/TimeBasedKeyValueStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Medium/Java/src/WordSearchII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Medium/Java/src/ZigZagConversion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="dccbd138-2ab3-4e51-9896-70105faa9305" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
