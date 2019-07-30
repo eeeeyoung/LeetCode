@@ -2,41 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74d8ff39-f5e4-47c5-9fe6-f2f5d028b12c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BestTimeToBuyAndSellStock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinaryTreePostOrderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CountCompleteTreeNodes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GroupAnagrams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google/.idea/Google.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google/MostStonesRemovedwithSameRowOrColumn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google/OddEvenJump.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google/RedundantConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google/RobotRoomCleaner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google/SplitArrayLargestSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google/UniqueEmailAddresses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Graph/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Graph/CloneGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Hard/BestMeetingPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Medium/Java/src/MergeSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Medium/Java/src/WordLadder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Medium/Java/src/WordLadderDriver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BackTracking/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../BackTracking/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MostCommonWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hard/EditDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hard/IntegerToEnglishWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hard/WordSearchII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hard/WordSearchSelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Medium/Java/src/FindtheCelebrity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Easy/C/Python/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Easy/C/Python/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Hard/LargestBSTSubtree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hard/LargestBSTSubtree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Hard/RecoverATreeFromPreorder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hard/RecoverATreeFromPreorder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Hard/RecoverATreeFromPreorderRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hard/RecoverATreeFromPreorderRecursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Hard/RecoverBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hard/RecoverBST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Hard/ValidateBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hard/ValidateBST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Hard/ValidateBSTIterative.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hard/ValidateBSTIterative.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Medium/Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Medium/Java/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Medium/Java/out/production/Java/MinCostClimbingStairs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Medium/Java/src/ConvertSortedListToBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Medium/Java/src/ConvertSortedListToBST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Medium/Java/src/SortColors.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Medium/Java/src/SortColors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hard/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hard/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Medium/Java/src/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Medium/Java/src/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Medium/Java/src/WordSearchII.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +20,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MostCommonWord.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -67,13 +52,14 @@
         <option value="$PROJECT_DIR$/InorderSuccessorInBST.java" />
         <option value="$PROJECT_DIR$/BestTimeToBuyAndSellStock.java" />
         <option value="$PROJECT_DIR$/GroupAnagrams.java" />
+        <option value="$PROJECT_DIR$/MostCommonWord.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="687" />
+    <option name="x" value="917" />
     <option name="y" value="27" />
-    <option name="width" value="1213" />
+    <option name="width" value="963" />
     <option name="height" value="1053" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -82,7 +68,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -95,11 +80,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561915313515" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../HighFreq" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564372023855" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -131,9 +117,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="687" y="27" width="1213" height="1053" extended-state="4" />
+    <frame x="917" y="27" width="963" height="1053" extended-state="4" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11825193" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15267175" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -207,6 +194,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" selection-start-line="4" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MostCommonWord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>

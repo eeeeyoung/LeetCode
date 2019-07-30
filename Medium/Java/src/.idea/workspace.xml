@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f3e59be-1cdf-4c0e-a7cc-cc61a9ea8592" name="Default Changelist" comment="" />
+    <list default="true" id="7f3e59be-1cdf-4c0e-a7cc-cc61a9ea8592" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Hard/WordSearchII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hard/WordSearchSelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FindtheCelebrity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hard/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Hard/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordSearchII.java" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,17 +16,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/WordSearchII.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
-              <caret line="42" column="8" lean-forward="true" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -48,6 +45,7 @@
         <option value="$PROJECT_DIR$/LowestCommonAncestorOfABinaryTree.java" />
         <option value="$PROJECT_DIR$/WordSearch.java" />
         <option value="$PROJECT_DIR$/WordSearchII.java" />
+        <option value="$PROJECT_DIR$/FindtheCelebrity.java" />
       </list>
     </option>
   </component>
@@ -83,7 +81,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564299154040" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564367339350" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Hard" />
   </component>
@@ -114,7 +112,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="900" y="27" width="1010" height="1053" extended-state="4" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.121369295" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -242,8 +239,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/WordSearchII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="42" column="8" lean-forward="true" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
+        <state relative-caret-position="374">
+          <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FindtheCelebrity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
         </state>
       </provider>
     </entry>
