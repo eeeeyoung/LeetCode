@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9dcd0c9e-d760-4ddf-8826-61fbb297a884" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Medium/Java/src/CopyListWithRandomPointer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Medium/Java/src/DecodeWays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Medium/Java/src/IntervalListIntersections.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Medium/Java/src/MaximumSwap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Medium/Java/src/ProductOfArrayExceptItself.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/InterviewPrep/ElectronicsShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/InterviewPrep/ExtraLongFactorials.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/InterviewPrep/SockMerchant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hard/ICSGradeCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ByCompany/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ByCompany/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Hard/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Hard/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,18 +63,16 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="903" />
-    <option name="y" value="25" />
-    <option name="width" value="1017" />
-    <option name="height" value="1053" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="-2" />
+    <option name="width" value="1920" />
+    <option name="height" value="1082" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -104,11 +103,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563747502155" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Hard" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -140,9 +140,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="903" y="25" width="1017" height="1053" extended-state="4" />
+    <frame x="0" y="-2" width="1920" height="1082" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20906281" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18036287" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -156,7 +157,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32900432" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.33788037" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Inspection Results" order="10" weight="0.32900432" />
